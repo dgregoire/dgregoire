@@ -1,4 +1,15 @@
-### Hi there 👋
+### Allô! 👋
+
+- :man_beard: Dominic Grégoire
+- :computer: Systems Architect
+- Main Interests:
+  - :fireworks: Tools / Data Visualizations 
+  - :otter: Programming (Go, C)
+  - :whale: Large Scalable Systems
+- Side Interests:
+  - :loud_sound: Repairing HiFi Equipment
+  - :sun_behind_small_cloud: Energy Storage
+
 
 <!--
 **dgregoire/dgregoire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
