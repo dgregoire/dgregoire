@@ -3,9 +3,9 @@
 - :man_beard: Dominic Grégoire
 - :computer: Systems Architect
 - Main Interests:
-  - :fireworks: Data Structures / Data Visualizations 
+  - :fireworks: Data Structures / Transmission / Visualizations 
   - :otter: Programming (Go, C)
-  - :whale: Large Scalable Systems
+  - :whale: :moneybag: Large Scalable Systems
 - Side Interests:
   - :loud_sound: Repairing HiFi Equipment
   - :sun_behind_small_cloud: Energy Storage
