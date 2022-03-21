@@ -1,7 +1,7 @@
 ### Allô! 👋
 
 - :man_beard: Dominic Grégoire
-- :computer: Systems Architect
+- :computer: 
 - Main Interests:
   - :fireworks: Data Structures / Transmission / Visualizations 
   - :otter: Programming (Go, C)
